@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  ORG: PineaplePrjk
+  ORG: Hopireika
   GH_AUTH: ${{ secrets.GH_AUTH }}
   TG_CHAT: "@hopireika_dump"
   TG_TOKEN: ${{ secrets.TG_TOKEN }}
