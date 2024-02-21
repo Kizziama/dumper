@@ -1,1 +1,1 @@
-https://bn.d.miui.com/V14.0.9.0.TLUMIXM/miui_ROCKGlobal_V14.0.9.0.TLUMIXM_bc18926a42_13.0.zip
+https://cdn-ota.azureedge.net/OS1.0.4.0.UMGMIXM/miui_TOPAZGlobal_OS1.0.4.0.UMGMIXM_a5ad88643c_14.0.zip
